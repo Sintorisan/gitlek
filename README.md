@@ -18,19 +18,3 @@ The world is ~~flat~~ **round**
 -[ ] Rule the world!
 -[ ] Buy milk
 
-[*] --> First
-    First --> Second
-    First --> Third
-
-    state First {
-        [*] --> fir
-        fir --> [*]
-    }
-    state Second {
-        [*] --> sec
-        sec --> [*]
-    }
-    state Third {
-        [*] --> thi
-        thi --> [*]
-    }
