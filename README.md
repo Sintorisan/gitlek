@@ -13,3 +13,8 @@
 | Paragraph        | Text                    |
 
 The world is ~~flat~~ **round**
+
+-[x] Being awesome!
+-[ ] Rule the world!
+-[ ] Buy milk
+
